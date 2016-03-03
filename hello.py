@@ -6,6 +6,7 @@ n_houses = 100
 n_plots = 100
 n_periods = 100
 
+# numpy.random.choice(items, p=probs)
 t0_wealth_mu = 400
 t0_wealth_sigma = 50
 
